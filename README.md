@@ -6,20 +6,30 @@
 
 ## 🚀 About Me  
 
-- 🎓 **Education:**  
-  - Bachelor of Science in Computer Science (Oregon State University)  
-  - Data Analytics Certification (University of Berkeley Extension)  
-  - Bachelor of Science in Biochemistry (California Polytechnic State University)  
+### 🔬 From Lab Coat to Code Editor
+My journey began in laboratory automation, where I discovered my love for coding while automating complex scientific instruments. This unique starting point gave me a deep appreciation for both the technical and practical aspects of software development. Now, I architect cloud-native solutions that bridge the gap between scientific discovery and technological innovation.
 
-- 💡 **Experience:**  
-  I started my career in **lab automation and data analysis** before transitioning into full-time software engineering. My journey has taken me from scripting instrument automations in Python to architecting **cloud-native web applications** for cross-departmental collaboration and real-time data processing.
+### 💡 Professional Evolution
+- **Backend Architecture:** Designing and implementing scalable microservices and APIs
+- **Cloud Infrastructure:** Building and maintaining robust AWS/GCP deployments
+- **Data Engineering:** Creating efficient pipelines for processing scientific data
+- **Automation Solutions:** Developing tools that transform manual processes into automated workflows
 
-- 🌱 **What drives me:**  
-  I enjoy solving complex problems, designing user-centric tools, and collaborating across disciplines to make a tangible impact. I'm always seeking opportunities to grow in **cloud infrastructure**, **distributed systems**, and **large-scale backend development**.  
+### 🎯 What Drives Me
+I'm passionate about:
+- Building software that makes complex scientific processes more accessible
+- Creating elegant solutions to challenging technical problems
+- Learning and adapting to emerging technologies
+- Bridging the gap between scientific research and software engineering
+
+### 🎓 Educational Foundation  
+- **Computer Science** (B.S.) - Oregon State University
+- **Data Analytics** Certification - UC Berkeley Extension
+- **Biochemistry** (B.S.) - California Polytechnic State University
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Technical Skills  
 
 ### 💻 Programming Languages & Frameworks  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
