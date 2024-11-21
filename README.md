@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Nish!  
 
-🌟 Welcome to my GitHub! I'm a **Software Engineer** with a passion for building scalable backend systems, designing impactful web applications, and empowering scientists and engineers with innovative tools. With a unique blend of software development expertise and a strong foundation in biochemistry, I thrive at the intersection of technology and science.
+🌟 Welcome to my GitHub! I'm a Software Engineer passionate about building scalable backend systems, creating impactful applications, and developing innovative solutions that drive progress. With a unique background blending software development expertise and a foundation in the sciences, I thrive at the intersection of technology and discovery.
 
 ---
 
 ## 🚀 About Me  
 
 ### 🔬 From Lab Coat to Code Editor
-My journey began in laboratory automation, where I discovered my love for coding while automating complex scientific instruments. This unique starting point gave me a deep appreciation for both the technical and practical aspects of software development. Now, I architect cloud-native solutions that bridge the gap between scientific discovery and technological innovation.
+My journey began in process development, where I combined hands-on scientific work with automation to optimize workflows and improve efficiency. This experience sparked my passion for coding as I created solutions to streamline complex systems and solve challenging problems. Over time, this passion evolved into more traditional software engineering, where I now build impactful solutions such as web applications, microservices, and other scalable systems. Today, I design cloud-native solutions that bridge the gap between discovery and innovation, driving meaningful outcomes.
 
 ### 💡 Professional Evolution
 - **Backend Architecture:** Designing and implementing scalable microservices and APIs
