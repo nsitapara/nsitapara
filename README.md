@@ -1,4 +1,4 @@
-# Nishit Sitapara 👨‍💻🔬
+# Nish Sitapara 👨‍💻🔬
 
 ## 🌟 Professional Summary
 Innovative Software Engineer and Scientist with a unique blend of computer science, biochemistry, and software development expertise. Passionate about leveraging technology to solve complex scientific challenges and drive operational efficiency.
