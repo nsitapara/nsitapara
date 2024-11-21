@@ -87,11 +87,6 @@ I'm passionate about:
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/-Webhooks-00B48A?style=flat&logo=webhook&logoColor=white)
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/nsitapara)
-- 🐦 [Twitter](https://twitter.com/nsitapara)
-- 📧 [Email](mailto:nsitapara@gmail.com)
-
 <!-- <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsitapara&theme=tokyonight)](https://github.com/nsitapara)
