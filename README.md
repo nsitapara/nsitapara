@@ -1,8 +1,26 @@
 # 👋 Hi, I'm Nish!  
 
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=nsitapara&color=blueviolet)](https://github.com/nsitapara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/nsitapara)
+[![GitHub followers](https://img.shields.io/github/followers/nsitapara?label=Follow&style=social)](https://github.com/nsitapara)
+
+</div>
+
 🌟 Welcome to my GitHub! I'm a **Software Engineer** passionate about building **scalable backend systems**, creating **impactful applications**, and developing **innovative solutions** that drive progress. With a unique background blending software development expertise and a foundation in the sciences, I thrive at the intersection of technology and discovery. 🧬💻
 
----
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nsitapara&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/nsitapara)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nsitapara&layout=compact&theme=tokyonight&count_private=true)](https://github.com/nsitapara)
+
+</div>
+
+## 🔥 Currently Working On
+- 🚀 Building scalable microservices architectures
+- 📊 Developing data processing pipelines
+- 🤖 Exploring AI/ML applications in backend systems
 
 ## 🚀 About Me  
 
@@ -27,7 +45,12 @@ I'm passionate about:
 - 📈 **Data Analytics** Certification - UC Berkeley Extension
 - 🧪 **Biochemistry** (B.S.) - California Polytechnic State University
 
----
+## 🌟 Featured Projects
+<div align="center">
+
+[![Project Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nsitapara&repo=nsitapara&theme=tokyonight&count_private=true)](https://github.com/nsitapara/nsitapara)
+
+</div>
 
 ## ⚙️ Tech Stack
 
@@ -63,3 +86,19 @@ I'm passionate about:
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat&logo=fastapi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/-Webhooks-00B48A?style=flat&logo=webhook&logoColor=white)
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/nsitapara)
+- 🐦 [Twitter](https://twitter.com/nsitapara)
+- 📧 [Email](mailto:your.email@example.com)
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsitapara&theme=tokyonight)](https://github.com/nsitapara)
+
+</div>
+
+---
+<div align="center">
+⭐️ From [nsitapara](https://github.com/nsitapara)
+</div>
