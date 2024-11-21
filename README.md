@@ -17,10 +17,14 @@
 
 </div> -->
 
+━━━━━━━━━━━━━━━━━━━━━━
+
 ## 🔥 Currently Working On
 - 🚀 Building scalable microservices architectures
 - 📊 Developing data processing pipelines
 - 🤖 Exploring AI/ML applications in backend systems
+
+⚡️━━━━━━━━━━━━━━━━━━━⚡️
 
 ## 🚀 About Me  
 
@@ -51,6 +55,8 @@ I'm passionate about:
 [![Project Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nsitapara&repo=nsitapara&theme=tokyonight&count_private=true)](https://github.com/nsitapara/nsitapara)
 
 </div> -->
+
+🔸━━━━━━━━━━━━━━━━━━━🔸
 
 ## ⚙️ Tech Stack
 
@@ -87,6 +93,8 @@ I'm passionate about:
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/-Webhooks-00B48A?style=flat&logo=webhook&logoColor=white)
 
+⭐️━━━━━━━━━━━━━━━━━━━⭐️
+
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/nsitapara)
 - 🐦 [Twitter](https://twitter.com/nsitapara)
@@ -98,7 +106,7 @@ I'm passionate about:
 
 </div> -->
 
----
+━━━━━━━━━━━━━━━━━━━
 <!-- <div align="center">
 ⭐️ From [nsitapara](https://github.com/nsitapara)
 </div> -->
