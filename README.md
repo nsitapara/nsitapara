@@ -90,13 +90,13 @@ I'm passionate about:
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/nsitapara)
 - 🐦 [Twitter](https://twitter.com/nsitapara)
-- 📧 [Email](mailto:your.email@example.com)
-
+- 📧 [Email](mailto:nsitapara@gmail.com)
+<!-- 
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsitapara&theme=tokyonight)](https://github.com/nsitapara)
 
-</div>
+</div> -->
 
 ---
 <div align="center">
