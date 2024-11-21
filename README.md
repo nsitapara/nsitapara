@@ -1,44 +1,68 @@
-# Nish Sitapara 👨‍💻🔬
+# 👋 Hi, I'm Nish!  
 
-## 🌟 Professional Summary
-Innovative Software Engineer and Scientist with a unique blend of computer science, biochemistry, and software development expertise. Passionate about leveraging technology to solve complex scientific challenges and drive operational efficiency.
+🌟 Welcome to my GitHub! I'm a **Software Engineer** with a passion for building scalable backend systems, designing impactful web applications, and empowering scientists and engineers with innovative tools. With a unique blend of software development expertise and a strong foundation in biochemistry, I thrive at the intersection of technology and science.
 
-## 💼 Professional Experience
+---
 
-### 🧬 Genentech | Software Engineer | May 2022 - Present
-- 🚀 Led backend development for a web application using Next.js, React, TypeScript/JavaScript to assist potency assay development
-- 🔧 Architected backend systems with Django, GraphQL, PostgreSQL, Docker, and CI/CD pipelines on AWS
-- 🤝 Designed cross-departmental laboratory sample testing web application with advanced features
-- 🏗️ Led microservices development integrating internal systems, enhancing collaboration and data sharing
-- 📊 Collaborated closely with stakeholders throughout the Software Development Life Cycle (SDLC)
+## 🚀 About Me  
 
-### 🔬 Genentech | Associate Scientist | Sep 2020 - May 2022
-- 🤖 Engineered an intelligent monitoring system using Python and OpenCV for instrument error detection
-- 👥 Managed ELN user support group, providing technical assistance to 150+ department users
-- 🤖 Developed automation scripts for high-throughput screenings utilizing robotics and liquid handlers
+- 🎓 **Education:**  
+  - Bachelor of Science in Computer Science (Oregon State University)  
+  - Data Analytics Certification (University of Berkeley Extension)  
+  - Bachelor of Science in Biochemistry (California Polytechnic State University)  
 
-### 🧪 Sangamo Therapeutics | Process Development Associate | Aug 2017 - Sep 2020
-- 📊 Developed automated data processing system using Python (Pandas, Plotly, SQLite)
-- 🔬 Led design and programming of purification instruments to optimize process efficiency
-- 📋 Implemented ELN and LIMS solutions
-- 👨‍🏫 Mentored junior scientists and participated in hiring processes
+- 💡 **Experience:**  
+  I started my career in **lab automation and data analysis** before transitioning into full-time software engineering. My journey has taken me from scripting instrument automations in Python to architecting **cloud-native web applications** for cross-departmental collaboration and real-time data processing.
 
-### 🌐 Additional Professional Experiences
-- 🕷️ Genentech (Contract): Engineered web crawler using Selenium for metadata extraction
-- 🧪 Thermo Fisher Scientific & LGC Biosearch Technologies: Scientific research and production roles
+- 🌱 **What drives me:**  
+  I enjoy solving complex problems, designing user-centric tools, and collaborating across disciplines to make a tangible impact. I'm always seeking opportunities to grow in **cloud infrastructure**, **distributed systems**, and **large-scale backend development**.  
 
-## 🎓 Education
-- 💻 Bachelor of Science in Computer Science | Oregon State University
-- 📊 Data Analytics Certificate | University of Berkeley Extension
-- 🧬 Bachelor of Science in Biochemistry | California Polytechnic State University
+---
 
-## 🛠️ Technical Skills
-- **Languages:** Python, TypeScript, JavaScript, HTML/CSS
-- **Frameworks:** Next.js, React, Django, GraphQL
-- **Tools:** Docker, GitHub Actions, AWS, GCP, Sentry.io
-- **Databases:** PostgreSQL, SQLite
-- **Scientific Tools:** OpenCV, Pandas, Plotly, Selenium
+## 🛠️ Skills  
 
-## 📫 Connect with Me
-[Add your LinkedIn, GitHub, or professional contact information here]
-EOF
+### 💻 Programming Languages & Frameworks  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+
+### 📦 Databases  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
+
+### ☁️ Cloud Platforms & Tools  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+
+### 🛠️ DevOps & CI/CD  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
+![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat&logo=sentry&logoColor=white)  
+
+---
+
+## 🧩 Projects  
+
+### **📊 Potency Assay Web App**  
+**Tech Stack:** React, Django, GraphQL, PostgreSQL, AWS  
+- Developed an internal tool that integrates experimental data, streamlines workflows, and generates actionable insights for scientists and engineers.  
+
+### **🔬 Intelligent Monitoring System**  
+**Tech Stack:** Python, OpenCV, Webhooks  
+- Automated instrument error detection with real-time notifications, increasing efficiency and reducing downtime.  
+
+### **⚡ Laboratory Sample Management System**  
+**Tech Stack:** Next.js, REST API, Docker, GCP  
+- Designed a platform for managing and validating multi-assay laboratory workflows with scheduling and automated reporting.
+
+---
+
+## 📚 Let's Connect!  
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 🌐 [Portfolio](https://your-portfolio.com)  
+- 🐦 [Twitter](https://twitter.com/your-handle)  
+
+💬 Feel free to explore my repositories, and let's collaborate to build something amazing!  
