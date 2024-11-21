@@ -9,13 +9,13 @@
 </div>
 
 🌟 Welcome to my GitHub! I'm a **Software Engineer** passionate about building **scalable backend systems**, creating **impactful applications**, and developing **innovative solutions** that drive progress. With a unique background blending software development expertise and a foundation in the sciences, I thrive at the intersection of technology and discovery. 🧬💻
-
+<!-- 
 <div align="center">
   
 [![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nsitapara&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/nsitapara)
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nsitapara&layout=compact&theme=tokyonight&count_private=true)](https://github.com/nsitapara)
 
-</div>
+</div> -->
 
 ## 🔥 Currently Working On
 - 🚀 Building scalable microservices architectures
@@ -45,12 +45,12 @@ I'm passionate about:
 - 📈 **Data Analytics** Certification - UC Berkeley Extension
 - 🧪 **Biochemistry** (B.S.) - California Polytechnic State University
 
-## 🌟 Featured Projects
+<!-- ## 🌟 Featured Projects
 <div align="center">
 
 [![Project Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nsitapara&repo=nsitapara&theme=tokyonight&count_private=true)](https://github.com/nsitapara/nsitapara)
 
-</div>
+</div> -->
 
 ## ⚙️ Tech Stack
 
