@@ -8,7 +8,7 @@
 
 </div>
 
-🌟 Welcome to my GitHub! I'm a **Software Engineer** passionate about building **scalable backend systems**, creating **impactful applications**, and developing **innovative solutions** that drive progress. With a unique background blending software development expertise and a foundation in the sciences, I thrive at the intersection of technology and discovery. 🧬💻
+🌟 Welcome to my GitHub! I'm a **Software Engineer** passionate about building **scalable systems**, creating **impactful applications**, and developing **innovative solutions** that drive progress. With a unique background blending software development expertise and a foundation in the sciences, I thrive at the intersection of technology and discovery. 🧬💻
 <!-- 
 <div align="center">
   
